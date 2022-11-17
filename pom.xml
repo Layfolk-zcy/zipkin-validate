@@ -9,13 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>eureka-server</module>
-        <module>gateway-server</module>
-        <module>consumer-server</module>
-        <module>provider-one-server</module>
-        <module>provider-two-server</module>
-        <module>swagger-server</module>
-        <module>sleuth-server</module>
+        <module>eureka-server-other</module>
+        <module>provider-one-server-other</module>
     </modules>
 
     <properties>
